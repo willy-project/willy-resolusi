@@ -1,0 +1,6 @@
+belajar konten
+
+- javascript 
+- github
+  = cara menggunakan github
+- php
